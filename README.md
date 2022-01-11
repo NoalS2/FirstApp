@@ -1,4 +1,4 @@
-# USU CS4610 Nest Starter App
+# FirstApp
 
 ## Description
 A starter app with Postgres, NestJS, and React
